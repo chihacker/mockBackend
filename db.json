@@ -3,247 +3,332 @@
       {
          "title":"Nyckeln till frihet",
          "year":"1994",
-         "genres":[
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "Tim Robbins",
-            "Morgan Freeman",
-            "Bob Gunton"
-         ],
          "imdbRating":9.3,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY500_CR0,0,336,500_AL_.jpg"
       },
       {
          "title":"Gudfadern",
          "year":"1972",
-         "genres":[
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "Marlon Brando",
-            "Al Pacino",
-            "James Caan"
-         ],
          "imdbRating":9.2,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,352,500_AL_.jpg"
       },
       {
          "title":"Gudfadern del II",
          "year":"1974",
-         "genres":[
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "Al Pacino",
-            "Robert De Niro",
-            "Robert Duvall"
-         ],
          "imdbRating":9.0,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,351,500_AL_.jpg"
       },
       {
          "title":"The Dark Knight",
          "year":"2008",
-         "genres":[
-            "Action",
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "Christian Bale",
-            "Heath Ledger",
-            "Aaron Eckhart"
-         ],
          "imdbRating":9.0,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY500_CR0,0,337,500_AL_.jpg"
       },
       {
          "title":"12 edsvurna m\u00e4n",
          "year":"1957",
-         "genres":[
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "Henry Fonda",
-            "Lee J. Cobb",
-            "Martin Balsam"
-         ],
          "imdbRating":8.9,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SY500_CR0,0,333,500_AL_.jpg"
       },
       {
          "title":"Schindler's List",
          "year":"1993",
-         "genres":[
-            "Biography",
-            "Drama",
-            "History"
-         ],
-         "actors":[
-            "Liam Neeson",
-            "Ralph Fiennes",
-            "Ben Kingsley"
-         ],
          "imdbRating":8.9,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,333,500_AL_.jpg"
       },
       {
          "title":"Pulp Fiction",
          "year":"1994",
-         "genres":[
-            "Crime",
-            "Drama"
-         ],
-         "actors":[
-            "John Travolta",
-            "Uma Thurman",
-            "Samuel L. Jackson"
-         ],
          "imdbRating":8.9,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SY500_CR0,0,336,500_AL_.jpg"
       },
       {
          "title":"Sagan om konungens \u00e5terkomst",
          "year":"2003",
-         "genres":[
-            "Adventure",
-            "Drama",
-            "Fantasy"
-         ],
-         "actors":[
-            "Elijah Wood",
-            "Viggo Mortensen",
-            "Ian McKellen"
-         ],
          "imdbRating":8.9,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY500_SX334_AL_.jpg"
       },
       {
          "title":"Den gode, den onde, den fule",
          "year":"1966",
-         "genres":[
-            "Western"
-         ],
-         "actors":[
-            "Clint Eastwood",
-            "Eli Wallach",
-            "Lee Van Cleef"
-         ],
          "imdbRating":8.9,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SY500_CR0,0,328,500_AL_.jpg"
       },
       {
          "title":"Fight Club",
          "year":"1999",
-         "genres":[
-            "Drama"
-         ],
-         "actors":[
-            "Brad Pitt",
-            "Edward Norton",
-            "Meat Loaf"
-         ],
          "imdbRating":8.8,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX290_CR0,0,290,429_AL_.jpg"
       },
       {
          "title":"Sagan om ringen: H\u00e4rskarringen",
          "year":"2001",
-         "genres":[
-            "Adventure",
-            "Drama",
-            "Fantasy"
-         ],
-         "actors":[
-            "Elijah Wood",
-            "Ian McKellen",
-            "Orlando Bloom"
-         ],
          "imdbRating":8.8,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNmFmZDdkODMtNzUyMy00NzhhLWFjZmEtMGMzYjNhMDA1NTBkXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY500_SX342_AL_.jpg"
       },
       {
          "title":"Rymdimperiet sl\u00e5r tillbaka",
          "year":"1980",
-         "genres":[
-            "Action",
-            "Adventure",
-            "Fantasy"
-         ],
-         "actors":[
-            "Mark Hamill",
-            "Harrison Ford",
-            "Carrie Fisher"
-         ],
          "imdbRating":8.8,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,322,500_AL_.jpg"
       },
       {
          "title":"Forrest Gump",
          "year":"1994",
-         "genres":[
-            "Comedy",
-            "Drama",
-            "Romance"
-         ],
-         "actors":[
-            "Tom Hanks",
-            "Robin Wright",
-            "Gary Sinise"
-         ],
          "imdbRating":8.8,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,378,500_AL_.jpg"
       },
       {
          "title":"Inception",
          "year":"2010",
-         "genres":[
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-         ],
-         "actors":[
-            "Leonardo DiCaprio",
-            "Joseph Gordon-Levitt",
-            "Ellen Page"
-         ],
          "imdbRating":8.8,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY500_CR0,0,337,500_AL_.jpg"
       },
       {
          "title":"Sagan om de tv\u00e5 tornen",
          "year":"2002",
-         "genres":[
-            "Adventure",
-            "Drama",
-            "Fantasy"
-         ],
-         "actors":[
-            "Elijah Wood",
-            "Ian McKellen",
-            "Viggo Mortensen"
-         ],
          "imdbRating":8.7,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_SY256_SX175_AL_.jpg"
       },
       {
          "title":"G\u00f6kboet",
          "year":"1975",
-         "genres":[
-            "Drama"
-         ],
-         "actors":[
-            "Jack Nicholson",
-            "Louise Fletcher",
-            "Michael Berryman"
-         ],
          "imdbRating":8.7,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,336,500_AL_.jpg"
+      },
+      {
+         "title":"Maffiabr\u00f6der",
+         "year":"1990",
+         "imdbRating":8.7,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,334,500_AL_.jpg"
+      },
+      {
+         "title":"Matrix",
+         "year":"1999",
+         "imdbRating":8.7,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,332,500_AL_.jpg"
+      },
+      {
+         "title":"De sju samurajerna",
+         "year":"1954",
+         "imdbRating":8.7,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_SY500_CR0,0,356,500_AL_.jpg"
+      },
+      {
+         "title":"Stj\u00e4rnornas krig",
+         "year":"1977",
+         "imdbRating":8.7,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,332,500_AL_.jpg"
+      },
+      {
+         "title":"Guds stad",
+         "year":"2002",
+         "imdbRating":8.7,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX200_CR0,0,200,296_AL_.jpg"
+      },
+      {
+         "title":"Seven",
+         "year":"1995",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,319,500_AL_.jpg"
+      },
+      {
+         "title":"N\u00e4r lammen tystnar",
+         "year":"1991",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SY500_CR0,0,333,500_AL_.jpg"
+      },
+      {
+         "title":"Livet \u00e4r underbart",
+         "year":"1946",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_SY500_CR0,0,334,500_AL_.jpg"
+      },
+      {
+         "title":"De misst\u00e4nkta",
+         "year":"1995",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_SY500_CR0,0,333,500_AL_.jpg"
+      },
+      {
+         "title":"Livet \u00e4r underbart",
+         "year":"1997",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_SX335_AL_.jpg"
+      },
+      {
+         "title":"L\u00e9on",
+         "year":"1994",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjdjMGU3MGYtN2Y5ZC00MTE4LWE4YWQtMTBhMjc3MTk0ZDUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_SX332_AL_.jpg"
+      },
+      {
+         "title":"Spirited Away",
+         "year":"2001",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNmU5OTQ0OWQtOTY0OS00Yjg4LWE1NDYtNDRhYWMxYWY4OTMwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,352,500_AL_.jpg"
+      },
+      {
+         "title":"R\u00e4dda menige Ryan",
+         "year":"1998",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,339,500_AL_.jpg"
+      },
+      {
+         "title":"Harmonica - En h\u00e4mnare",
+         "year":"1968",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjFiOTlmMzgtOGZlYi00NjY0LThmMzEtNmQ0OTgxNGViOTZmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,329,500_AL_.jpg"
+      },
+      {
+         "title":"American History X",
+         "year":"1998",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BY2E2MWU5ZDktOTQ0OS00NGIzLTg4YTgtYjFhNTRlMjA1NzFjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY500_SX340_AL_.jpg"
+      },
+      {
+         "title":"Interstellar",
+         "year":"2014",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SY500_CR0,0,320,500_AL_.jpg"
+      },
+      {
+         "title":"Casablanca",
+         "year":"1942",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY377_SX250_AL_.jpg"
+      },
+      {
+         "title":"Psycho",
+         "year":"1960",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,331,500_AL_.jpg"
+      },
+      {
+         "title":"Stadens ljus",
+         "year":"1931",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjMmI3ZjgtMGE3Mi00NjY5LTg0NWMtMmU3YzgyMjhmMjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY500_CR0,0,330,500_AL_.jpg"
+      },
+      {
+         "title":"Den gr\u00f6na milen",
+         "year":"1999",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SY370_SX250_AL_.jpg"
+      },
+      {
+         "title":"En ov\u00e4ntad v\u00e4nskap",
+         "year":"2011",
+         "imdbRating":8.6,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+         "title":"Moderna tider",
+         "year":"1936",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY450_SX289_AL_.jpg"
+      },
+      {
+         "title":"Jakten p\u00e5 den f\u00f6rsvunna skatten",
+         "year":"1981",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SY500_CR0,0,332,500_AL_.jpg"
+      },
+      {
+         "title":"F\u00f6nstret \u00e5t g\u00e5rden",
+         "year":"1954",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,341,500_AL_.jpg"
+      },
+      {
+         "title":"The Pianist",
+         "year":"2002",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,362,500_AL_.jpg"
+      },
+      {
+         "title":"The Departed",
+         "year":"2006",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX225_CR0,0,225,332_AL_.jpg"
+      },
+      {
+         "title":"Terminator 2 - Domedagen",
+         "year":"1991",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZDM2YjYwYWMtMWZlNi00ZDQxLWExMDctMDAzNzQ0OTkzZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+         "title":"Tillbaka till framtiden",
+         "year":"1985",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,321,500_AL_.jpg"
+      },
+      {
+         "title":"Whiplash",
+         "year":"2014",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhMWQ5MDktMGE3OS00MjVlLWExZWYtMzY2MTg4ZGFiZDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+         "title":"Gladiator",
+         "year":"2000",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQzNTQ1Ml5BMl5BanBnXkFtZTgwMDY2NTYxMTE@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+         "title":"Memento",
+         "year":"2000",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,340,500_AL_.jpg"
+      },
+      {
+         "title":"Apocalypse",
+         "year":"1979",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BODViM2VjYWYtMzU5Ny00ZjczLWEzNjMtODZmNGMwZDAxNzJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY370_CR0,0,242,370_AL_.jpg"
+      },
+      {
+         "title":"The Prestige",
+         "year":"2006",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX225_CR0,0,225,333_AL_.jpg"
+      },
+      {
+         "title":"Lejonkungen",
+         "year":"1994",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SY500_CR0,0,336,500_AL_.jpg"
+      },
+      {
+         "title":"Alien",
+         "year":"1979",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,340,500_AL_.jpg"
+      },
+      {
+         "title":"Dr. Strangelove eller: Hur jag slutade \u00e4ngslas och l\u00e4rde mig \u00e4lska bomben",
+         "year":"1964",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxYjUxNDYtZGY0My00NTc2LThiZmYtNmNmNmU0NGVkZWYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SY500_CR0,0,326,500_AL_.jpg"
+      },
+      {
+         "title":"Sunset Boulevard",
+         "year":"1950",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NDYzODAwNV5BMl5BanBnXkFtZTgwODg1MTczMTE@._V1_SY250_SX166_AL_.jpg"
+      },
+      {
+         "title":"Diktatorn",
+         "year":"1940",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,338,500_AL_.jpg"
+      },
+      {
+         "title":"Cinema Paradiso",
+         "year":"1988",
+         "imdbRating":8.5,
+         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMTgzOTEwOF5BMl5BanBnXkFtZTgwNTUxNjcxMTE@._V1_SY249_CR0,0,168,249_AL_.jpg"
       }
    ]
 }
