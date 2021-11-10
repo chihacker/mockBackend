@@ -191,30 +191,6 @@
          "year":"2014",
          "imdbRating":8.6,
          "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SY500_CR0,0,320,500_AL_.jpg"
-      },
-      {
-         "title":"Casablanca",
-         "year":"1942",
-         "imdbRating":8.6,
-         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY377_SX250_AL_.jpg"
-      },
-      {
-         "title":"Psycho",
-         "year":"1960",
-         "imdbRating":8.5,
-         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,331,500_AL_.jpg"
-      },
-      {
-         "title":"Stadens ljus",
-         "year":"1931",
-         "imdbRating":8.6,
-         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjMmI3ZjgtMGE3Mi00NjY5LTg0NWMtMmU3YzgyMjhmMjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY500_CR0,0,330,500_AL_.jpg"
-      },
-      {
-         "title":"Den gr\u00f6na milen",
-         "year":"1999",
-         "imdbRating":8.5,
-         "posterurl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SY370_SX250_AL_.jpg"
       }
    ]
 }
